@@ -14,4 +14,5 @@ make build
 ```
 brew install llvm
 brew link --force llvm
+cargo build
 ```
